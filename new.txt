@@ -1,2 +1,1 @@
-This is new file    added some text1 and text2
-                                                
+This is new file    
