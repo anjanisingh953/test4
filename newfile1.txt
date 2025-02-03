@@ -1,1 +1,2 @@
 newfile newbranch changes1
+newfile newbranch changes2
