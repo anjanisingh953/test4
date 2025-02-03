@@ -1,2 +1,3 @@
 file1 master branch changes1
 file1 master branch changes2
+file1 master branch changes3
